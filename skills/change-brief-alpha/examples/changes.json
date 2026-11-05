@@ -1,0 +1,19 @@
+{
+  "product": "Orion Workspace",
+  "version": "2.4.1",
+  "date": "2026-11-05",
+  "changes": [
+    {
+      "type": "Added",
+      "summary": "Introduced saved dashboard filters."
+    },
+    {
+      "type": "Fixed",
+      "summary": "Corrected empty-state label on activity view."
+    },
+    {
+      "type": "Improved",
+      "summary": "Reduced initial report rendering time."
+    }
+  ]
+}
